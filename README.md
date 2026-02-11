@@ -1,8 +1,4 @@
-Here’s a complete **GitHub-ready README.md** for your Typing Championship app. It’s structured for founders, developers, and contributors.
 
----
-
-```markdown
 # Typing Championship
 
 Typing Championship is a competitive, skill-based typing game that transforms traditional typing practice into an esports-style experience. It combines educational tutorials, real-time ranked battles, customizable typing tests, and arcade-style gameplay into a modern, scalable cross-platform application.
