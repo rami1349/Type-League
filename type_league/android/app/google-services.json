@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "276535428516",
+    "project_id": "type-league",
+    "storage_bucket": "type-league.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276535428516:android:badcb8e25f4309e57f2d31",
+        "android_client_info": {
+          "package_name": "com.type_league"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276535428516-pqnpdr6lrmaec0lm57k1k7ms8i85ojtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_nzL1wqO3Lao9LyG9Eoo1Or7K_vJDVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276535428516-pqnpdr6lrmaec0lm57k1k7ms8i85ojtg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276535428516-e53mh0ovimpc56ga22bo603enhml7tgm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.type-league"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
